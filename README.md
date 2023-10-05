@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Bk073/Bk073** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bishwa Karki, a passionate computer scientist currently pursuing my master's degree in Computer Science and working as a research assistant at University of Nebraska at Omaha. My research focuses on cutting-edge projects in deep learning, particularly in the domains of watermarking and large language models.
 
-Here are some ideas to get you started:
+🧠 In the realm of deep learning, I'm intrigued by the potential to revolutionize the way we interact with data and information. Through my work, I aim to contribute to advancements in both theoretical and practical aspects, striving to make a meaningful impact on the field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Currently, my research efforts are dedicated to enhancing watermarking techniques and exploring innovative approaches to protect digital assets. Additionally, I'm deeply involved in leveraging the power of large language models to tackle real-world challenges and improve natural language processing applications.
+
+🌱 When I'm not immersed in code or research, you can find me exploring the latest trends in technology, engaging in outdoor activities, or enjoying a good book.
+
+📫 Let's connect! Feel free to reach out to me on [LinkedIn]([link to your LinkedIn profile](https://www.linkedin.com/in/bishwakarki/)) or [Twitter](https://twitter.com/karkeebishwa1).
+
+
+
+
