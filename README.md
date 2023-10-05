@@ -8,7 +8,7 @@ I'm Bishwa Karki, a passionate computer scientist currently pursuing my master's
 
 🌱 When I'm not immersed in code or research, you can find me exploring the latest trends in technology, engaging in outdoor activities, or enjoying a good book.
 
-📫 Let's connect! Feel free to reach out to me on [LinkedIn]([link to your LinkedIn profile](https://www.linkedin.com/in/bishwakarki/)) or [Twitter](https://twitter.com/karkeebishwa1).
+📫 Let's connect! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/bishwakarki/) or [Twitter](https://twitter.com/karkeebishwa1).
 
 
 
